@@ -31,5 +31,3 @@ Aplicación de escritorio para automatizar la edición de archivos XML relaciona
 
 Requiere Python 3.9+ y los siguientes paquetes:
 
-```bash
-pip install -r requirements.txt
